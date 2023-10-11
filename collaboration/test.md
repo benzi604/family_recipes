@@ -1,3 +1,7 @@
-This is just a test.
+This is just a test. Or is it? :)
 
-I want to do some exercises to be familia with the git push and pull command and some relevant actions!
+My favorite fruit TOP 3:
+
+- Blueberry
+- Watermelon
+- Grapefruit
